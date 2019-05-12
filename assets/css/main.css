@@ -2731,6 +2731,19 @@ input, select, textarea {
 				margin: 1em 0 0 0;
 			}
 
+			button {
+				border: 1px solid red;
+				margin: 0 10px;
+  				border: 1px solid black;
+  				padding: 10px;
+  				display: inline-block;
+ 				border-radius: 10px;
+  				color: black;
+  				text-decoration: none;
+				margin-bottom: 20px;
+				background: white;
+			}
+
 		#header > footer {
 			-moz-flex-shrink: 0;
 			-webkit-flex-shrink: 0;
